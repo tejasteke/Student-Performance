@@ -1,20 +1,20 @@
-# 🎓 Student Performance Dashboard (Power BI)
+#  Student Performance Dashboard (Power BI)
 
 An interactive Power BI dashboard that explores how factors such as **parental education, lunch type, race/ethnicity group, gender and test preparation** relate to students' exam performance in **Math, Reading and Writing**.
 
-![Dashboard Preview](images/dashboard.png)
 
-> 📌 Add your dashboard screenshot at `images/dashboard.png` so the preview above shows on GitHub.
+
+> Add your dashboard screenshot at `images/dashboard.png` so the preview above shows on GitHub.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to analyze student exam scores and find out which background factors are associated with higher academic performance. The data was cleaned and transformed, a combined score column was created, and the results were visualized in a single-page Power BI dashboard with slicers for filtering.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI Desktop** – data cleaning, modeling, DAX and visualization
 - **Power Query** – data transformation and value replacement
@@ -22,7 +22,7 @@ The goal of this project is to analyze student exam scores and find out which ba
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 - **Replaced values in the Parental Level of Education column** to standardize the education categories used in the analysis
 - **Created a new column `Percentage`** by combining the three subject scores to get an overall performance measure:
@@ -35,7 +35,7 @@ The goal of this project is to analyze student exam scores and find out which ba
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 | Visual | Purpose |
 |---|---|
@@ -58,7 +58,7 @@ The goal of this project is to analyze student exam scores and find out which ba
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### 1. Parental education is associated with student performance
 Students whose parents have a higher level of education tend to score higher.
@@ -93,7 +93,7 @@ Students who completed the preparation course scored about **5.6 points higher**
 
 ---
 
-## ⚠️ Note on Interpretation
+##  Note on Interpretation
 
 These findings show **associations, not proven causes**. For example, lunch type is used as an indirect indicator of economic background, because the dataset has no income column. Group labels (A–E) are anonymized, so the reason behind group differences cannot be determined from this data alone.
 
@@ -104,7 +104,7 @@ These findings show **associations, not proven causes**. For example, lunch type
 ---
 
 
-## 👤 Author
+##  Author
 
 **Tejas**
 MCA Student | Aspiring Data Analyst
