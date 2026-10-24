@@ -108,8 +108,8 @@ These findings show **associations, not proven causes**. For example, lunch type
 MCA Student | Aspiring Data Analyst
 Skills: Python, SQL, Power BI, Excel
 
-🌐 Portfolio: [tejasteke.github.io](https://tejasteke.github.io)
+ Portfolio: [tejasteke.github.io](https://tejasteke.github.io)
 
 ---
 
-⭐ If you found this project useful, consider giving the repo a star!
+ If you found this project useful, consider giving the repo a star!
