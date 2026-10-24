@@ -4,8 +4,6 @@ An interactive Power BI dashboard that explores how factors such as **parental e
 
 
 
-> Add your dashboard screenshot at `images/dashboard.png` so the preview above shows on GitHub.
-
 ---
 
 ##  Project Overview
